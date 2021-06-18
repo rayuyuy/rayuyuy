@@ -1,4 +1,4 @@
-- 👋 Hey, I’m Danta. Welcome to my gitpage.
+- 👋 Hey, I’m Danta. Open Source.
 
 <!---
 dantaaa/dantaaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
