@@ -1,0 +1,39 @@
+body {
+    color: rgb(255, 201, 53);
+	background: url(/img/main.gif) repeat-y center center fixed;
+	background-color: rgb(243, 245, 244);
+	font-family: monospace;
+	font-size: 60px;
+    padding-top: 5em;
+    padding: 150px 25px;
+}
+
+#container {
+	color: rgb(193, 202, 211);
+	font-size: 23px;
+	margin-bottom: -2px;
+}
+
+#text {
+	display: inline-block;
+	color: rgb(193, 202, 211);
+	font-size: 23px;
+}
+
+#cursor {
+	display: inline-block;
+	vertical-align: middle;
+	width: 2px;
+	height: 25px;
+	background-color: rgb(240, 158, 152);
+	animation: blink .75s step-end infinite;
+}
+
+@keyframes blink {
+	from, to { 
+		background-color: transparent 
+	}
+	50% { 
+		background-color: rgb(240, 158, 152); 
+	}
+}
