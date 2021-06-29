@@ -1,6 +1,6 @@
 body {
     color: rgb(255, 201, 53);
-	background: url(/img/main.gif) repeat-y center center fixed;
+	background: url(img/main.gif) repeat-y center center fixed;
 	background-color: rgb(243, 245, 244);
 	font-family: monospace;
 	font-size: 60px;
