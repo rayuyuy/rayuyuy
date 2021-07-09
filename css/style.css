@@ -1,23 +1,23 @@
 body {
-    color: rgb(255, 201, 53);
-	background: url(../img/main.gif) repeat-y center center fixed;
+    color: rgb(239, 184, 204);
+	background: url(/img/main.gif) repeat-y center center fixed;
 	background-color: rgb(243, 245, 244);
 	font-family: monospace;
-	font-size: 60px;
+	font-size: 65px;
     padding-top: 5em;
-    padding: 150px 25px;
+    padding: 150px 20px;
 }
 
 #container {
 	color: rgb(193, 202, 211);
-	font-size: 23px;
+	font-size: 22px;
 	margin-bottom: -2px;
 }
 
 #text {
 	display: inline-block;
 	color: rgb(193, 202, 211);
-	font-size: 23px;
+	font-size: 22px;
 }
 
 #cursor {
