@@ -1,9 +1,9 @@
 var _CONTENT = [ 
 	"lot of things",
+	"discord servers",
 	"websites",
-	"discord server",
 	"minecraft server",
-	"quality management",
+	"etc",
 ];
 
 var _PART = 0;
