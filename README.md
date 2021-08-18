@@ -2,13 +2,12 @@
 dantaaa/dantaaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
 <br />
  
 >
 ><img src="https://cdn.discordapp.com/attachments/785296679380582460/877567941682548756/1293.png" alt="drawing" width="487"/>
 
-**欸~ 我叫蛋塔**👋<br />
+**欸~ 我叫蛋塔**<br />
 歡迎來到我的 Github ~~玩累了就直接睡覺沒問題的~~<br />
 
 這裡其實沒啥好看的 ₍₍ ◝(・ω・)◟ ⁾⁾<br />
@@ -17,6 +16,9 @@ You can click the Preview link to take a look at your changes.
 
 我的網站 (My Site)：<br />
 [點這裡](https://dantaaa.github.io/dantaaa/) <-- 
+
+> 我曾經的Forks：<br />
+* Minepacks 繁中翻譯 [點我!](https://github.com/GeorgH93/Minepacks/blob/master/Minepacks/resources/lang/cht.yml)
 
 > 其他可能有用的連結 Usefull links：
 * SetoFont [點我! Click me!](https://zh-tw.osdn.net/projects/setofont/)
