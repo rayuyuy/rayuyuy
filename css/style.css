@@ -1,7 +1,7 @@
 body {
-    color: rgb(239, 184, 204);
-	background: url(/img/main.gif) repeat-y center center fixed;
-	background-color: rgb(243, 245, 244);
+    color: rgb(255, 255, 255);
+	background: url(/media/main.gif) repeat-y center center fixed;
+	background-color: rgb(51, 50, 50);
 	font-family: DejaVu Sans Mono, monospace;
 	font-size: 65px;
     padding-top: 5em;
@@ -9,14 +9,14 @@ body {
 }
 
 #container {
-	color: rgb(193, 202, 211);
+	color: rgb(255, 255, 255);
 	font-size: 22px;
 	margin-bottom: -2px;
 }
 
 #text {
 	display: inline-block;
-	color: rgb(193, 202, 211);
+	color: rgb(226, 216, 219);
 	font-size: 22px;
 }
 
@@ -25,7 +25,7 @@ body {
 	vertical-align: middle;
 	width: 2px;
 	height: 25px;
-	background-color: rgb(240, 158, 152);
+	background-color: rgb(255, 220, 19);
 	animation: blink .75s step-end infinite;
 }
 
@@ -34,6 +34,20 @@ body {
 		background-color: transparent 
 	}
 	50% { 
-		background-color: rgb(240, 158, 152); 
+		background-color: rgb(255, 220, 19); 
 	}
+}
+
+.tags {
+	display: inline-flex;
+	margin-top: 0rem;
+}
+
+.tag img {
+	margin-right: 0.5rem;
+}
+
+.tag img:hover {
+	display: inline-block;
+	cursor: pointer;
 }
