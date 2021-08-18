@@ -1,6 +1,8 @@
 var _CONTENT = [ 
-	"Discord servers",
-	"small websites",
+	"的興趣是做做亂七八糟的東西",
+	"目前在學css來寫網站",
+	"有3年架設MC,DC伺服器的經驗",
+	"(◉◞౪◟◉)"
 ];
 
 var _PART = 0;
@@ -49,3 +51,10 @@ function Delete() {
 }
 
 _INTERVAL_VAL = setInterval(Type, 100);
+
+var aAudio = new Audio('/media/a.mp3');
+            function myAudioFunction(letter) {
+                if(letter == 'a') {
+                    aAudio.play();
+                }
+            }
