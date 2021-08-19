@@ -1,23 +1,27 @@
 body {
-    color: rgb(255, 255, 255);
+    color: rgb(247, 248, 153);
 	background: url(/media/main.gif) repeat-y center center fixed;
 	background-color: rgb(51, 50, 50);
-	font-family: DejaVu Sans Mono, monospace;
-	font-size: 65px;
+	font-size: 62px;
     padding-top: 5em;
     padding: 150px 20px;
 }
 
+@import url(//fonts.googleapis.com/earlyaccess/notosanstc.css);
+body{
+  font-family: 'Noto Sans TC', '微軟正黑體', sans-serif;
+}
+
 #container {
 	color: rgb(255, 255, 255);
-	font-size: 22px;
+	font-size: 20px;
 	margin-bottom: -2px;
 }
 
 #text {
 	display: inline-block;
-	color: rgb(226, 216, 219);
-	font-size: 22px;
+	color: rgb(255, 255, 255);
+	font-size: 20px;
 }
 
 #cursor {
