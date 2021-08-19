@@ -1,8 +1,10 @@
 var _CONTENT = [ 
-	"叫做蛋塔，是一個食物",
-	"曾經寫過許多小型網站",
-	"有3年架設 Minecraft 伺服器的經驗",
-	"有4年管理和經營 Discord 群組的經驗"
+	"叫蛋塔，是一個食物",
+	"會寫小網站",
+	"曾架設過Minecraft網絡/伺服",
+	"目前擁有一個Discord群組",
+	"目前在做一些神秘的project",
+	"曾買過20多個無用的網域"
 ];
 
 var _PART = 0;
@@ -24,7 +26,7 @@ function Type() {
 		clearInterval(_INTERVAL_VAL);
 		setTimeout(function() {
 			_INTERVAL_VAL = setInterval(Delete, 50);
-		}, 1000);
+		}, 2000);
 	}
 }
 
