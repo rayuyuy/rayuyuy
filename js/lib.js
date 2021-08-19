@@ -1,7 +1,7 @@
 var _CONTENT = [ 
 	"叫蛋塔，是一個食物",
 	"會寫寫小網站",
-	"架設過Minecraft網絡/伺服",
+	"架設過Minecraft伺服器/",
 	"目前擁有一個Discord群組",
 	"目前在做一些神秘的project",
 	"曾買過20多個無用的網域"
