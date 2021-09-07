@@ -26,10 +26,9 @@ You can click the Preview link to take a look at your changes.
 > 其他可能有用的連結 Usefull links：
 * SetoFont [點我! Click me!](https://zh-tw.osdn.net/projects/setofont/)
 * Magnolia Sky [點我! Click me!](https://www.dafont.com/magnolia-sky.font)
-* Miko Fox (Welcome Banner)</br >
-on Wallpaper Engine by Snow Z (Steam Workshop)
 * MD Live Review [點我! Click me!](https://markdownlivepreview.com/)
 * Floating Flow 雲流れ - Foxtail Grass Studio [點我! Click me!](https://www.youtube.com/watch?v=tNinLc45aIU)
 * Favicon [點我! Click me!](https://www.flaticon.com/free-icon/cloudy-night_4064371)
 * Github Icon [點我! Click me!](https://www.flaticon.com/free-icon/github_733609)
 * Play Icon [點我! Click me!](https://www.flaticon.com/free-icon/play_748134)
+* URL Shortener Icon [點我! Click me!](https://www.flaticon.com/free-icon/link_3858448)
