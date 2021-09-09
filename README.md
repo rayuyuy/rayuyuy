@@ -32,3 +32,4 @@ You can click the Preview link to take a look at your changes.
 * Github Icon [點我! Click me!](https://www.flaticon.com/free-icon/github_733609)
 * Play Icon [點我! Click me!](https://www.flaticon.com/free-icon/play_748134)
 * URL Shortener Icon [點我! Click me!](https://www.flaticon.com/free-icon/link_3858448)
+* Contact Icon [點我! Click me!](https://www.flaticon.com/free-icon/contact_4542097)
