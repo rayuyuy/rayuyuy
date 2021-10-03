@@ -18,7 +18,7 @@ You can click the Preview link to take a look at your changes.
 [點這裡](https://danta.moe/) <--<br />
 
 我的Discord：<br />
-[點這裡](https://discord.gg/zGT3PZHeN9) <--<br />
+[點這裡](https://boringcafe.co/) <--<br />
 
 > 我曾經的Forks：<br />
 * Minepacks 繁中翻譯 [點我!](https://github.com/GeorgH93/Minepacks/blob/master/Minepacks/resources/lang/cht.yml)
