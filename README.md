@@ -4,9 +4,6 @@ You can click the Preview link to take a look at your changes.
 --->
 <br />
  
->
-><img src="https://cdn.discordapp.com/attachments/785296679380582460/877567941682548756/1293.png" alt="drawing" width="487"/>
-
 **欸~ 我叫蛋塔**<br />
 歡迎來到我的 Github ~~玩累了就直接睡覺沒問題的~~<br />
 
